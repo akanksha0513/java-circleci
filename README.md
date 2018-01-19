@@ -59,7 +59,7 @@ You can grab the files your need (for Java 8) from here:
   - [Legion of the Bouncy Castle](https://www.bouncycastle.org/latest_releases.html)
   - [Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 8 Download](http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html)
   
-We can now tell CircleCI how to make use of our overlay.
+We can now tell CircleCI how to make use of your overlay.
 
 #### 3. Rsync the Overlay
 
